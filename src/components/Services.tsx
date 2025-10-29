@@ -30,10 +30,8 @@ const Services = () => {
     <section id="services" className="py-24 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16 space-y-4">
-          <h2 className="text-4xl md:text-5xl font-bold">
-            <span className="bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-              核心服务
-            </span>
+          <h2 className="text-4xl md:text-5xl font-bold text-primary">
+            核心服务
           </h2>
           <p className="text-muted-foreground text-lg">
             专业的技术服务，助力企业数字化转型

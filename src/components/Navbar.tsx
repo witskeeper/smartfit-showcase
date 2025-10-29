@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-        <h2 className="text-xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
+        <h2 className="text-xl font-bold text-primary">
           恰巧合适科技
         </h2>
         <div className="hidden md:flex items-center gap-8">

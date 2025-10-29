@@ -3,10 +3,8 @@ const About = () => {
     <section id="about" className="py-24 bg-background">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center space-y-8">
-          <h2 className="text-4xl md:text-5xl font-bold">
-            <span className="bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
-              关于我们
-            </span>
+          <h2 className="text-4xl md:text-5xl font-bold text-primary">
+            关于我们
           </h2>
           
           <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
